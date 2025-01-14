@@ -38,12 +38,12 @@ By accessing these pages, you confirm you are:
   <!-- YouTube Link -->
   [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/klT4bEOtGgc?si=eCZNsqj2Y_hF9XtB)
 
-##  Access Tool 🔥 
+##  Access Page 🔥 
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/microsoft)
 
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me to get obfuscated code with functionality to add your webhook.
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
