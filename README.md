@@ -1,6 +1,6 @@
 # Microsoftphishingpage
 
-### 🚨 SECURITY RESEARCH DISCLAIMER 🚨
+### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
 Microsoft Security Test Examine Microsoft authentication methods
 <div align="center">
 
@@ -9,7 +9,7 @@ Microsoft Security Test Examine Microsoft authentication methods
 ---
 
 
-### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
+### 🚨 SECURITY RESEARCH DISCLAIMER 🚨
 
 ATTENTION: These demonstration pages are designed strictly for security research and educational purposes only. They simulate phishing techniques and collect credentials via Discord webhook for research demonstration. Any use of these pages for malicious purposes or actual credential harvesting is strictly prohibited and illegal. By accessing these pages, you acknowledge that you are a security researcher or penetration tester conducting authorized testing.
 
