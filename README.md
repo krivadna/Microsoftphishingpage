@@ -30,7 +30,7 @@ By accessing these pages, you confirm you are:
 <div align="center">
 
 ### 🔗 ACCESS LINK 
-⚡ [https://kalkikrivadna.com/m.html](https://kalkikrivadna.com/m.html) ⚡
+⚡ [https://kalkikrivadna.com/m.html](https://kalkikrivadna.com/microsoft.html) ⚡
 
 </div>
 
