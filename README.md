@@ -38,23 +38,13 @@ By accessing these pages, you confirm you are:
 </div>
 
 ## 🚀 Live Demo
-  <!-- YouTube Link -->
-  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](## 🚀 Live Demo
+  
   <!-- YouTube Link -->
   [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/klT4bEOtGgc?si=eCZNsqj2Y_hF9XtB)
 
 ##  Access Tool 🔥 
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/microsoft)
-
-## 🔐 Security Notice
-This tool is designed for:
-- Network monitoring
-- System Diagnostics 
-- System administration
-- Digital forensics
-- Penetration testing
-- Educational purposes
 
 
 ### 🌐 Connect With Me
@@ -66,18 +56,4 @@ This tool is designed for:
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
 
 )
-
-##  Access Tool 🔥 
-
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/loggerbykalkiob)
-
-
-
-### 🌐 Connect With Me
-[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
-
-
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
 
