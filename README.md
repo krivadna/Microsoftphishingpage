@@ -24,12 +24,8 @@ By accessing these pages, you confirm you are:
 
 ---
 
-### 🔗 ACCESS LINK 
-⚡ [https://kalkikrivadna.com/microsoft.html](https://kalkikrivadna.com/microsoft.html) ⚡
 
-</div>
 
----
 
 <div align="center">
 
@@ -55,5 +51,5 @@ By accessing these pages, you confirm you are:
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
 
-)
+
 
